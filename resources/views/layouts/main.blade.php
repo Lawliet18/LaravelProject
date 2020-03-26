@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	@include('partials.html')
+	@include('partials.html', ['titleHtml'=> $title])
     @include('partials.styles')
 </head>
 <body>

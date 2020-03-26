@@ -1,3 +1,3 @@
 <meta charset="UTF-8">
-<title>Laravel</title>
+<title>{{$titleHtml}}</title>
 
